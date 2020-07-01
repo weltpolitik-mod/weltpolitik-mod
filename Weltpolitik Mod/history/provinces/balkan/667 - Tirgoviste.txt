@@ -1,0 +1,6 @@
+owner = ROM
+controller = ROM
+add_core = ROM
+trade_goods = wool
+life_rating = 35
+

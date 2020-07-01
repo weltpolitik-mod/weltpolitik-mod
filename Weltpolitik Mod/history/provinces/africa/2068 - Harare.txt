@@ -1,0 +1,7 @@
+owner = POR
+controller = POR
+add_core = ZBW
+trade_goods = fruit
+terrain = savanna
+life_rating = 10
+colonial = 2

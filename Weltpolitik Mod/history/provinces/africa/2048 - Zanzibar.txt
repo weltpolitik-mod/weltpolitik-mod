@@ -1,0 +1,6 @@
+owner = GER
+controller = GER
+add_core = ZAN
+trade_goods = precious_goods
+life_rating = 40
+colonial = 2

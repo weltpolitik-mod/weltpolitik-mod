@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+trade_goods = grain
+terrain = desert
+life_rating = 10 
+colonial = 2

@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = fish
+life_rating = 31
+naval_base = 4
+fort = 2
+

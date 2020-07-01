@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = XHO
+add_core = SAF
+add_core = ENG
+trade_goods = wool
+life_rating = 35
+

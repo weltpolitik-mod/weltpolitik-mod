@@ -1,0 +1,8 @@
+owner = NET
+controller = NET
+colonial = 2
+add_core = KTI
+add_core = SUL
+add_core = BRU
+trade_goods = wool
+life_rating = 31

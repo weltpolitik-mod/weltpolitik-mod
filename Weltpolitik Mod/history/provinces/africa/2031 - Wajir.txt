@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = HBY
+trade_goods = cattle
+terrain = savanna
+life_rating = 10
+colonial = 2

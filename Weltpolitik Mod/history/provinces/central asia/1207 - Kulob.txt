@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+colonial = 2
+add_core = BUK
+add_core = KOK
+trade_goods = grain
+life_rating = 35

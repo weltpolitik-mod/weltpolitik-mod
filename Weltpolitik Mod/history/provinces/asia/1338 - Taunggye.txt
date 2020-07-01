@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = BUR
+add_core = SHA
+trade_goods = opium
+life_rating = 32
+colonial = 2

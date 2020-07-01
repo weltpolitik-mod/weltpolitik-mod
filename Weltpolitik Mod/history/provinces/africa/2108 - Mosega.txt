@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+add_core = MAT
+add_core = BSH
+add_core = TRN
+add_core = ENG
+terrain = savanna
+trade_goods = grain
+life_rating = 20
+

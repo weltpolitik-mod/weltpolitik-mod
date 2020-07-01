@@ -1,0 +1,7 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+add_core = BHR
+trade_goods = fruit
+terrain = semidesert
+life_rating = 34

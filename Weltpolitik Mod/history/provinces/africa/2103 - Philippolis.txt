@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = BSH
+add_core = ORA
+add_core = ENG
+trade_goods = cattle
+life_rating = 35
+

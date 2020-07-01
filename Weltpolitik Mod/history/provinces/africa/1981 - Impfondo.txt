@@ -1,0 +1,6 @@
+controller = ITA
+add_core = ITA
+trade_goods = iron
+life_rating = 31
+terrain = small_island
+colonial = 2

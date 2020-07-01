@@ -1,0 +1,77 @@
+;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ENG_absolute_monarchy;The Imperial Federation;;;;;;;;;;;;;x
+ENG_absolute_monarchy_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_prussian_constitutionalism;The Imperial Federation;;;;;;;;;;;;;x
+ENG_prussian_constitutionalism_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_hms_government;The Imperial Federation;;;;;;;;;;;;;x
+ENG_hms_government_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_proletarian_dictatorship;The Imperial People's Republic;;;;;;;;;;;;;x
+ENG_proletarian_dictatorship_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_fascist_dictatorship;The British Union;;;;;;;;;;;;;x
+ENG_fascist_ADJ;British;;;;;;;;;;;;;x
+ENG_presidential_dictatorship;The Imperial Commonwealth;;;;;;;;;;;;;x
+ENG_presidential_dictatorship_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_bourgeois_dictatorship;The Imperial Commonwealth;;;;;;;;;;;;;x
+ENG_bourgeois_dictatorship_ADJ;Imperial;;;;;;;;;;;;;x
+ENG_democracy;The Imperial Commonwealth;;;;;;;;;;;;;x
+ENG_democracy_ADJ;Imperial;;;;;;;;;;;;;x
+ITA;The Kingdom of Italy;;;;;;;;;;;;;x
+ITA_ADJ;Italian;;;;;;;;;;;;;x
+ITA_absolute_monarchy;The Kingdom of Italy;;;;;;;;;;;;;x
+ITA_prussian_constitutionalism;The Kingdom of Italy;;;;;;;;;;;;;x
+ITA_hms_government;The Kingdom of Italy;;;;;;;;;;;;;x
+ITA_proletarian_dictatorship;The Italian People's Republic;;;;;;;;;;;;;x
+ITA_fascist_dictatorship;The Italian Empire;;;;;;;;;;;;;x
+ITA_presidential_dictatorship;The Italian Republic;;;;;;;;;;;;;x
+ITA_bourgeois_dictatorship;Italy;;;;;;;;;;;;;x
+ITA_democracy;The Italian Republic;;;;;;;;;;;;;x
+JAP;Empire of Japan;;;;;;;;;;;;;x
+JAP_ADJ;Japanese;;;;;;;;;;;;;x
+JAP_absolute_monarchy;The Empire of Japan;;;;;;;;;;;;;x
+JAP_prussian_constitutionalism;The Empire of Japan;;;;;;;;;;;;;x
+JAP_hms_government;The Empire of Japan;;;;;;;;;;;;;x
+JAP_proletarian_dictatorship;The People's Republic of Japan;;;;;;;;;;;;;x
+JAP_fascist_dictatorship;Japan;;;;;;;;;;;;;x
+JAP_presidential_dictatorship;Japan;;;;;;;;;;;;;x
+JAP_bourgeois_dictatorship;Japan;;;;;;;;;;;;;x
+JAP_democracy;Japan;;;;;;;;;;;;;x
+FRA;The French Empire;;;;;;;;;;;;;x
+FRA_ADJ;French;;;;;;;;;;;;;x
+FRA_absolute_monarchy;The French Empire;;;;;;;;;;;;;x
+FRA_prussian_constitutionalism;The French Empire;;;;;;;;;;;;;x
+FRA_hms_government;The French Empire;;;;;;;;;;;;;x
+FRA_proletarian_dictatorship;The Commune of France;;;;;;;;;;;;;x
+FRA_fascist_dictatorship;National France;;;;;;;;;;;;;x
+FRA_presidential_dictatorship;The French Republic;;;;;;;;;;;;;x
+FRA_bourgeois_dictatorship;The Kingdom of France;;;;;;;;;;;;;x
+FRA_democracy;The French Republic;;;;;;;;;;;;;x
+USA;The United States of America;;;;;;;;;;;;;x
+USA_ADJ;American;;;;;;;;;;;;;x
+USA_absolute_monarchy;The Kingdom of America;;;;;;;;;;;;;x
+USA_prussian_constitutionalism;The Kingdom of America;;;;;;;;;;;;;x
+USA_hms_government;The Kingdom of America;;;;;;;;;;;;;x
+USA_proletarian_dictatorship;The Communist States of America;;;;;;;;;;;;;x
+USA_fascist_dictatorship;The American Union State;;;;;;;;;;;;;x
+USA_presidential_dictatorship;The United States of America;;;;;;;;;;;;;x
+USA_bourgeois_dictatorship;The United States of America;;;;;;;;;;;;;x
+USA_democracy;The United States of America;;;;;;;;;;;;;x
+SCA;The Kingdom of Scandinavia;;;;;;;;;;;;;x
+SCA_ADJ;Scandinavian;;;;;;;;;;;;;x
+SCA_absolute_monarchy;The Kingdom of Scandinavia;;;;;;;;;;;;;x
+SCA_prussian_constitutionalism;The Kingdom of Scandinavia;;;;;;;;;;;;;x
+SCA_hms_government;The Kingdom of Scandinavia;;;;;;;;;;;;;x
+SCA_proletarian_dictatorship;The People's Republic of Scandinavia;;;;;;;;;;;;;x
+SCA_fascist_dictatorship;The Scandinavian Union;;;;;;;;;;;;;x
+SCA_presidential_dictatorship;Scandinavia;;;;;;;;;;;;;x
+SCA_bourgeois_dictatorship;Scandinavia;;;;;;;;;;;;;x
+SCA_democracy;The Republic of Scandinavia;;;;;;;;;;;;;x
+GER;The German Empire;;;;;;;;;;;;;x
+GER_ADJ;German;;;;;;;;;;;;;x
+GER_absolute_monarchy;The German Empire;;;;;;;;;;;;;x
+GER_prussian_constitutionalism;The German Empire;;;;;;;;;;;;;x
+GER_hms_government;The German Empire;;;;;;;;;;;;;x
+GER_proletarian_dictatorship;The German Democratic Republic;;;;;;;;;;;;;x
+GER_fascist_dictatorship;The German Reich;;;;;;;;;;;;;x
+GER_presidential_dictatorship;The German Republic;;;;;;;;;;;;;x
+GER_bourgeois_dictatorship;Germany;;;;;;;;;;;;;x
+GER_democracy;The Federal Republic of Germany;;;;;;;;;;;;;x

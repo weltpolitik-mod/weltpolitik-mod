@@ -1,0 +1,8 @@
+owner = YUG
+controller = YUG
+add_core = YUG
+add_core = AUS
+add_core = SLO
+trade_goods = coal
+life_rating = 35
+

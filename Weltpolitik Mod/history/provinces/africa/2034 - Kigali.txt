@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = RWA
+trade_goods = cattle
+terrain = montane_forest
+life_rating = 10
+colonial = 2

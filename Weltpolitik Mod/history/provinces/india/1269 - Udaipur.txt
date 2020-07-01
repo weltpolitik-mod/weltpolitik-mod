@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+colonial = 2
+add_core = MEW
+add_core = HND
+trade_goods = opium
+life_rating = 32

@@ -1,0 +1,8 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+add_core = NYE
+trade_goods = coffee
+terrain = steppe
+life_rating = 35
+

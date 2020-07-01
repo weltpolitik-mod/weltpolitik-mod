@@ -1,0 +1,10 @@
+owner = GER
+controller = GER
+add_core = SWH
+add_core = HOL
+add_core = GER
+trade_goods = cattle
+life_rating = 40
+naval_base = 4
+
+

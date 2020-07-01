@@ -1,0 +1,7 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+add_core = HDJ
+trade_goods = wool
+terrain = semidesert
+life_rating = 35

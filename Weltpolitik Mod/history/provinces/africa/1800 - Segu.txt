@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = SEG
+add_core = MAS
+trade_goods = fruit
+terrain = semidesert
+life_rating = 32
+colonial = 2

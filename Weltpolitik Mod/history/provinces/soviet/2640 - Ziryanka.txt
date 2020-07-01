@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = BLC
+add_core = MAK
+trade_goods = fish
+terrain = mountain
+life_rating = 31

@@ -1,0 +1,9 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+add_core = SYR
+add_core = KDS
+trade_goods = grain
+terrain = semidesert
+life_rating = 10
+

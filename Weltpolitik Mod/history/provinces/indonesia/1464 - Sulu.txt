@@ -1,0 +1,7 @@
+owner = SPA
+controller = SPA
+colonial = 2
+add_core = PHL
+add_core = SUL
+trade_goods = fish
+life_rating = 35

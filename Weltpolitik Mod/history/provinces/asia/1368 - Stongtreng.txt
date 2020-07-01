@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = CAM
+trade_goods = wool
+life_rating = 32
+colonial = 2

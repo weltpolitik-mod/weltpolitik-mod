@@ -1,0 +1,7 @@
+controller = FRA
+owner = FRA
+trade_goods = fish
+life_rating = 15
+terrain = plains
+colonial = 2
+add_core = TMT

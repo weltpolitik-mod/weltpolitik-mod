@@ -1,0 +1,6 @@
+owner = GUA
+controller = GUA
+add_core = GUA
+trade_goods = wool
+life_rating = 35
+

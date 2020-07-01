@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = LUN
+add_core = LBA
+trade_goods = tropical_wood
+life_rating = 10
+colonial = 2

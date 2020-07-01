@@ -1,0 +1,8 @@
+owner = ARU
+controller = ARU
+add_core = ARU
+add_core = BHR
+add_core = QAT
+trade_goods = fish
+terrain = semidesert
+life_rating = 34

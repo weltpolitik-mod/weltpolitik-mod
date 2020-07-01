@@ -1,0 +1,7 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+trade_goods = precious_metal
+naval_base = 3
+life_rating = 35
+

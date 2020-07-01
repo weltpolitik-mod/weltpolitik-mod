@@ -1,0 +1,6 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+trade_goods = cotton
+naval_base = 2
+life_rating = 40

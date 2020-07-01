@@ -1,0 +1,6 @@
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+add_core = GUA
+trade_goods = fruit
+life_rating = 33

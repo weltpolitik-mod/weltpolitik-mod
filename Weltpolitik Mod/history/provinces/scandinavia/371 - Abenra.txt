@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = SCH
+add_core = GER
+add_core = SWH
+trade_goods = cattle
+life_rating = 35

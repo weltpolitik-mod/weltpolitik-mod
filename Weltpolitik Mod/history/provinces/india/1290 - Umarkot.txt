@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+colonial = 2
+add_core = SIN
+add_core = HND
+trade_goods = cattle
+life_rating = 32

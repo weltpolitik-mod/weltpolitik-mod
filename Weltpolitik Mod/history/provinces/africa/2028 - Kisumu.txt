@@ -1,0 +1,6 @@
+owner = GER
+controller = GER
+trade_goods = fish
+terrain = montane_forest
+life_rating = 10
+colonial = 2

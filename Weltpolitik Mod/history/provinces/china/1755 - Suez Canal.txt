@@ -1,0 +1,9 @@
+owner = ITA
+controller = ITA
+add_core = EGY
+trade_goods = cotton
+life_rating = 32
+terrain = semidesert
+set_province_flag = suez_canal
+suez_canal = yes
+colonial = 2

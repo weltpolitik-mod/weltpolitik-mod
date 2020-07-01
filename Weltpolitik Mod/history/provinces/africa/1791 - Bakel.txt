@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+add_core = GBU
+add_core = WOL
+add_core = TOO
+trade_goods = cattle
+terrain = semidesert
+life_rating = 31
+colonial = 2

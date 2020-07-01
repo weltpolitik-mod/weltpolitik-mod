@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = UBD
+add_core = GER
+add_core = EST
+trade_goods = grain
+life_rating = 40
+fort = 2
+naval_base = 3

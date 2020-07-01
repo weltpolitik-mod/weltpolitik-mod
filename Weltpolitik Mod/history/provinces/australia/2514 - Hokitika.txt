@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = NZL
+trade_goods = wool
+terrain = montane_forest
+life_rating = 30
+

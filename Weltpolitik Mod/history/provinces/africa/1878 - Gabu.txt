@@ -1,0 +1,7 @@
+owner = POR
+controller = POR
+add_core = GBU
+add_core = JAL
+trade_goods = grain
+life_rating = 15
+colonial = 2

@@ -1,0 +1,7 @@
+controller = ENG
+owner = ENG
+add_core = VTU
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+colonial = 2

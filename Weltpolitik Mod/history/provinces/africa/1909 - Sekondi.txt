@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = ENG
+controller = ENG
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

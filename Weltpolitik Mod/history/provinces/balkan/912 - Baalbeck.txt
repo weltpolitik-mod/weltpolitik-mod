@@ -1,5 +1,6 @@
-owner = LBN
-controller = LBN
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = LBN
 trade_goods = timber
 life_rating = 35

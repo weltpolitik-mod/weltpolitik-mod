@@ -1,6 +1,6 @@
-owner = ARU
-controller = ARU
-add_core = ARU
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = SYR
 add_core = KDS
 trade_goods = grain

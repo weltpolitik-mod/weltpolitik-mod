@@ -1,6 +1,7 @@
-owner = QNG
-controller = QNG
+owner = JAP
+controller = JAP
 add_core = CHI
 add_core = FJN
 trade_goods = tea
 life_rating = 32
+colonial = 2

@@ -1,5 +1,6 @@
-owner = ROM
-controller = ROM
+owner = HRC
+controller = HRC
+add_core = HRC
 add_core = ROM
 trade_goods = coal
 life_rating = 35

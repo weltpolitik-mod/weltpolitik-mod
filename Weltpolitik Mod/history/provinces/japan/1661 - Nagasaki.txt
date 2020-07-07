@@ -1,5 +1,20 @@
 owner = JAP
 controller = JAP
 add_core = JAP
-trade_goods = fruit
+trade_goods = coal
 life_rating = 35
+state_building = {
+	level = 4
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = steamer_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = dye_factory
+	upgrade = yes
+}

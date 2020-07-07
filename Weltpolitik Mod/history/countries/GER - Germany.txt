@@ -4,9 +4,9 @@ culture = south_german
 culture = swiss_german
 religion = protestant
 government = prussian_constitutionalism
-plurality = 0.15
+plurality = 100
 nationalvalue = nv_order
-literacy = 0.87
+literacy = 0.90
 civilized = yes
 is_releasable_vassal = no
 
@@ -95,6 +95,8 @@ steel_steamers = 1
 
 business_banks = 1
 market_structure = 1
+business_regulations = 1
+market_regulations = 1
 
 idealism = 1
 empiricism = 1
@@ -117,6 +119,12 @@ iron_railroad = 1
 inorganic_chemistry = 1
 drilling_and_blasting = 1
 compound_steam_engines = 1
+steam_turbine = 1
+pneumatic_and_hydraulics = 1
+steel_railroad = 1
+organic_chemistry = 1
+electricity = 1
+assembly_line = 1
 
 ruling_party = GER_conservative
 upper_house = {
@@ -131,4 +139,6 @@ upper_house = {
 
 schools = army_tech_school
 
+decision = germany_1886_setup
 decision = support_ruhr_industrialism
+decision = reichsland_elsass

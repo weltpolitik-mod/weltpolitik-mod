@@ -1811,132 +1811,132 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 97665
-	title = "EVTNAME97665" #The Satsuma Rebellion
-	desc = "EVTDESC97665"
-	news = yes
-	news_desc_long = "EVTDESC97665_NEWS_LONG"
-	news_desc_medium = "EVTDESC97665_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC97665_NEWS_SHORT"
-	picture = "satsuma_rebellion"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		OR = {
-			tag = TKG
-			tag = JAP
-		}
-		OR = {
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-		}
-		has_country_flag = han_system_abolished
-		owns = 1662
-		SAT = { exists = no }
-	}
-	
-	mean_time_to_happen = {
-		months = 60
-		modifier = {
-			factor = 0.5
-			average_militancy = 3
-		}
-		modifier = {
-			factor = 0.5
-			government = prussian_constitutionalism
-		}
-	}
-	
-	option = {
-		name = "EVT97665OPTA"
-		set_country_flag = satsuma_rebellion_happened
-		prestige = -10
-		aristocrats = {
-			ideology = {
-				value = reactionary
-				factor = 0.4
-			}
-		}
-		officers = {
-			ideology = {
-				value = reactionary
-				factor = 0.4
-			}
-		}
-		soldiers = {
-			ideology = {
-				value = reactionary
-				factor = 0.2
-			}
-		}
-		any_pop = {
-			scaled_militancy = {
-				ideology = reactionary
-				factor = 6
-			}
-		}
-		JAP_1660 = { add_core = SAT }
-		SAT = {
-			civilized = yes
-			set_country_flag = satsuma_rebellion
-		}
-		release = SAT
-		war = {
-			target = SAT
-			attacker_goal = {
-				casus_belli = civil_war
-			}		
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
-		ai_chance = {
-			factor = 90
-		}
-	}
-	
-	option = {
-		name = "EVT97665OPTB"
-		set_country_flag = satsuma_rebellion_happened
-		prestige = -20
-		aristocrats = {
-			ideology = {
-				value = reactionary
-				factor = 0.4
-			}
-		}
-		officers = {
-			ideology = {
-				value = reactionary
-				factor = 0.4
-			}
-		}
-		soldiers = {
-			ideology = {
-				value = reactionary
-				factor = 0.2
-			}
-		}
-		any_pop = {
-			scaled_militancy = {
-				ideology = reactionary
-				factor = 6
-			}
-		}
-		JAP_1660 = { add_core = SAT }
-		SAT = {
-			civilized = yes
-			set_country_flag = satsuma_rebellion
-		}
-		release = SAT
-		ai_chance = {
-			factor = 10
-		}
-	}
-}
+#country_event = {
+#	id = 97665
+#	title = "EVTNAME97665" #The Satsuma Rebellion
+#	desc = "EVTDESC97665"
+#	news = yes
+#	news_desc_long = "EVTDESC97665_NEWS_LONG"
+#	news_desc_medium = "EVTDESC97665_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC97665_NEWS_SHORT"
+#	picture = "satsuma_rebellion"
+#	
+#	fire_only_once = yes
+#	
+#	trigger = {
+#		war = no
+#		OR = {
+#			tag = TKG
+#			tag = JAP
+#		}
+#		OR = {
+#			government = absolute_monarchy
+#			government = prussian_constitutionalism
+#		}
+#		has_country_flag = han_system_abolished
+#		owns = 1662
+#		SAT = { exists = no }
+#	}
+#	
+#	mean_time_to_happen = {
+#		months = 60
+#		modifier = {
+#			factor = 0.5
+#			average_militancy = 3
+#		}
+#		modifier = {
+#			factor = 0.5
+#			government = prussian_constitutionalism
+#		}
+#	}
+#	
+#	option = {
+#		name = "EVT97665OPTA"
+#		set_country_flag = satsuma_rebellion_happened
+#		prestige = -10
+#		aristocrats = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.4
+#			}
+#		}
+#		officers = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.4
+#			}
+#		}
+#		soldiers = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.2
+#			}
+#		}
+#		any_pop = {
+#			scaled_militancy = {
+#				ideology = reactionary
+#				factor = 6
+#			}
+#		}
+#		JAP_1660 = { add_core = SAT }
+#		SAT = {
+#			civilized = yes
+#			set_country_flag = satsuma_rebellion
+#		}
+#		release = SAT
+#		war = {
+#			target = SAT
+#			attacker_goal = {
+#				casus_belli = civil_war
+#			}		
+#			defender_goal = {
+#				casus_belli = status_quo
+#			}
+#		}
+#		ai_chance = {
+#			factor = 90
+#		}
+#	}
+#	
+#	option = {
+#		name = "EVT97665OPTB"
+#		set_country_flag = satsuma_rebellion_happened
+#		prestige = -20
+#		aristocrats = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.4
+#			}
+#		}
+#		officers = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.4
+#			}
+#		}
+#		soldiers = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.2
+#			}
+#		}
+#		any_pop = {
+#			scaled_militancy = {
+#				ideology = reactionary
+#				factor = 6
+#			}
+#		}
+#		JAP_1660 = { add_core = SAT }
+#		SAT = {
+#			civilized = yes
+#			set_country_flag = satsuma_rebellion
+#		}
+#		release = SAT
+#		ai_chance = {
+#			factor = 10
+#		}
+#	}
+#}
 
 country_event = {
 	id = 97666

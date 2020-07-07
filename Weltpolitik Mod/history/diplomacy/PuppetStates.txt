@@ -490,14 +490,6 @@ vassal = {
 	end_date = 1912.1.1
 }
 
-#China/Korea
-vassal = {
-	first = QNG
-	second = KOR
-	start_date = 1836.1.1
-	end_date = 1876.1.1
-}
-
 #########1861
 # Siam - Cambodia
 vassal = {
@@ -538,3 +530,10 @@ vassal = {
 	# start_date = 1861.1.1
 	# end_date = 1936.1.1
 # }
+
+vassal = {
+	first = JAP
+	second = KOR
+	start_date = 1885.1.1
+	end_date = 1936.1.1
+}

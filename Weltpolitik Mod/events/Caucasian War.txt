@@ -1,105 +1,105 @@
 ##############Caucasian War Events
 
-country_event = {
-	id = 32513
-	title = "EVTNAME32513" #The Caucasian War
-	desc = "EVTDESC32513"
-	picture = "caucasian_war"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = RUS
-		CIR = { exists = no }
-		DAG = { exists = no }
-		OR = {
-			owns = 1056
-			owns = 1053
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 5
-	}
-	
-	option = {
-		name = "EVT32513OPTA"
-		1049 = { change_province_name = "Novorossiysk" add_core = RUS }
-		1049 = { state_scope = { change_region_name = "Yekaterinodar" } }
-		1103 = { secede_province = TCA }
-		1048 = { add_core = RUS }
-		
-		any_pop = { 
-			limit = { 
-				OR = {
-					has_pop_culture = circassian
-					has_pop_culture = dagestani
-					has_pop_culture = chechen
-				}
-			}
-			militancy = 9
-		}
-		random_pop = {
-			limit = {
-				is_state_religion = no
-				OR = {
-					has_pop_culture = circassian
-					has_pop_culture = chechen
-				}
-				location = {
-					OR = {
-						is_core = CIR
-						is_core = DAG
-						is_core = CHY
-					}
-				}
-				NOT = { type = farmers }
-			}
-			move_pop = 908
-		}
-		random_pop = {
-			limit = {
-				is_state_religion = no
-				OR = {
-					has_pop_culture = circassian
-					has_pop_culture = chechen
-				}
-				location = {
-					OR = {
-						is_core = CIR
-						is_core = DAG
-						is_core = CHY
-					}
-				}
-				NOT = { type = farmers }
-			}
-			move_pop = 908
-		}
-		any_owned = {
-			limit = {
-				OR = {
-					province_id = 1051
-					province_id = 1052
-					province_id = 1053
-					province_id = 1054
-					province_id = 1055
-					province_id = 1056
-					province_id = 1057
-				}
-			}
-			random_list = {
-				25 = { add_province_modifier = { name = highlander_raids duration = 9490 } }
-				25 = { add_province_modifier = { name = highlander_raids duration = 8760 } }
-				25 = { add_province_modifier = { name = highlander_raids duration = 8030 } }
-				25 = { add_province_modifier = { name = highlander_raids duration = 7300 } }
-			}
-			any_pop = {
-				limit = { is_primary_culture = no }
-				militancy = 9
-			}
-		}
-	}
-}
+#country_event = {
+#	id = 32513
+#	title = "EVTNAME32513" #The Caucasian War
+#	desc = "EVTDESC32513"
+#	picture = "caucasian_war"
+#	
+#	fire_only_once = yes
+#	
+#	trigger = {
+#		tag = RUS
+#		CIR = { exists = no }
+#		DAG = { exists = no }
+#		OR = {
+#			owns = 1056
+#			owns = 1053
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 5
+#	}
+#	
+#	option = {
+#		name = "EVT32513OPTA"
+#		1049 = { change_province_name = "Novorossiysk" add_core = RUS }
+#		1049 = { state_scope = { change_region_name = "Yekaterinodar" } }
+#		1103 = { secede_province = TCA }
+#		1048 = { add_core = RUS }
+#		
+#		any_pop = { 
+#			limit = { 
+#				OR = {
+#					has_pop_culture = circassian
+#					has_pop_culture = dagestani
+#					has_pop_culture = chechen
+#				}
+#			}
+#			militancy = 9
+#		}
+#		random_pop = {
+#			limit = {
+#				is_state_religion = no
+#				OR = {
+#					has_pop_culture = circassian
+#					has_pop_culture = chechen
+#				}
+#				location = {
+#					OR = {
+#						is_core = CIR
+#						is_core = DAG
+#						is_core = CHY
+#					}
+#				}
+#				NOT = { type = farmers }
+#			}
+#			move_pop = 908
+#		}
+#		random_pop = {
+#			limit = {
+#				is_state_religion = no
+#				OR = {
+#					has_pop_culture = circassian
+#					has_pop_culture = chechen
+#				}
+#				location = {
+#					OR = {
+#						is_core = CIR
+#						is_core = DAG
+#						is_core = CHY
+#					}
+#				}
+#				NOT = { type = farmers }
+#			}
+#			move_pop = 908
+#		}
+#		any_owned = {
+#			limit = {
+#				OR = {
+#					province_id = 1051
+#					province_id = 1052
+#					province_id = 1053
+#					province_id = 1054
+#					province_id = 1055
+#					province_id = 1056
+#					province_id = 1057
+#				}
+#			}
+#			random_list = {
+#				25 = { add_province_modifier = { name = highlander_raids duration = 9490 } }
+#				25 = { add_province_modifier = { name = highlander_raids duration = 8760 } }
+#				25 = { add_province_modifier = { name = highlander_raids duration = 8030 } }
+#				25 = { add_province_modifier = { name = highlander_raids duration = 7300 } }
+#			}
+#			any_pop = {
+#				limit = { is_primary_culture = no }
+#				militancy = 9
+#			}
+#		}
+#	}
+#}
 
 country_event = {
 	id = 325104

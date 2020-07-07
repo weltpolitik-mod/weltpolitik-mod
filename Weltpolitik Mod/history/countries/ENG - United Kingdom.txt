@@ -6,9 +6,10 @@ culture = anglo_canadian
 culture = boer
 religion = protestant
 government = hms_government
-plurality = 30
+plurality = 100
 nationalvalue = nv_order
-literacy = 0.6
+literacy = 0.86
+non_state_culture_literacy = 0.20
 civilized = yes
 
 #GreaterPowers = prestige
@@ -42,6 +43,8 @@ child_labor = child_labor_restricted
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_global_flag = sound_dues_abolished
+set_global_flag = copenhagen_convention_called
 set_country_flag = protestant_country
 
 # Technologies
@@ -87,6 +90,10 @@ military_plans = 1
 army_professionalism = 1
 breech_loaded_rifles = 1
 machine_guns = 1
+point_defense_system = 1
+iron_breech_loaded_artillery = 1
+military_statistics = 1
+army_decision_making = 1
 
 naval_plans = 1
 raider_group_doctrine = 1
@@ -97,7 +104,11 @@ naval_decision_making = 1
 blue_and_brown_water_schools = 1
 steel_steamers = 1
 main_armament = 1
+
 business_banks = 1
+market_structure = 1
+business_regulations = 1
+market_regulations = 1
 
 idealism = 1
 empiricism = 1
@@ -120,6 +131,7 @@ regenerative_furnaces = 1
 iron_railroad = 1
 inorganic_chemistry = 1
 organic_chemistry =  1
+drilling_and_blasting = 1
 
 # Inventions
 #corvettes = yes

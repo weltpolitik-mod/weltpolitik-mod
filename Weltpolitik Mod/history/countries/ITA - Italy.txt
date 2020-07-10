@@ -8,7 +8,7 @@ religion = catholic
 government = hms_government
 plurality = 100
 nationalvalue = nv_order
-literacy = 0.70
+literacy = 0.72
 non_state_culture_literacy = 0.35
 civilized = yes
 

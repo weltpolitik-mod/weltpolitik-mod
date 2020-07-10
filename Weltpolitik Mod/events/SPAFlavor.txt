@@ -506,196 +506,196 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 37711
-	title = "EVTNAME37711" #The Carlist War
-	desc = "EVTDESC37711"
-	picture = "carlists"
-	news = yes
-	news_title = "EVTNAME37711_NEWS_TITLE"
-	news_desc_long = "EVTDESC37711_NEWS_LONG"
-	news_desc_medium = "EVTDESC37711_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC37711_NEWS_SHORT"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = SPA
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "EVT37711OPTA"
-		set_country_flag = carlist_war
-		any_owned = {
-			limit = {
-				OR = {
-					controlled_by = REB
-					region = SPA_474
-					province_id = 477
-					province_id = 480
-					province_id = 495
-					province_id = 485
-					province_id = 509
-				}
-			}
-			any_pop = {
-				ideology = {
-					value = conservative
-					factor = 0.6
-				}
-				ideology = {
-					value = reactionary
-					factor = 0.3
-				}
-			}
-		}
-		any_owned = {
-			limit = {
-				OR = {
-					province_id = 492
-					province_id = 493
-					province_id = 497
-					province_id = 499
-					province_id = 500
-					province_id = 501
-				}
-			}
-			add_province_modifier = {
-				name = carlist_sympathies
-				duration = -1
-			}
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = basque
-						has_pop_culture = catalan
-					}
-				}
-				militancy = 5
-				consciousness = 5
-				ideology = {
-					value = reactionary
-					factor = 0.3
-				}
-			}
-		}
-		set_variable = {
-			which = carlist_provinces
-			value = 6
-		}
-		define_general = {
-			name = "Baldomero Espartero"
-			personality = unflinching
-			background = natural_born_leader
-		}
-		ai_chance = {
-			factor = 100
-		}
-	}
-	
-	option = {
-		name = "EVT37711OPTB"
-		any_owned = {
-			limit = {
-				OR = {
-					controlled_by = REB
-					region = SPA_474
-					province_id = 477
-					province_id = 480
-					province_id = 495
-					province_id = 485
-					province_id = 509
-				}
-			}
-			any_pop = {
-				ideology = {
-					value = conservative
-					factor = 0.6
-				}
-				ideology = {
-					value = reactionary
-					factor = 0.3
-				}
-			}
-		}
-		all_core = {
-			remove_core = SPA
-			add_core = SPC
-		}
-		change_tag = SPC
-		government = absolute_monarchy
-		ruling_party_ideology = reactionary
-		political_reform = none_voting
-		political_reform = party_appointed
-		political_reform = no_meeting
-		political_reform = state_press
-		political_reform = state_controlled
-		political_reform = underground_parties
-		clr_country_flag = election_started
-		clr_country_flag = conservative_party_in_power
-		clr_country_flag = liberal_party_in_power
-		clr_country_flag = reactionary_party_in_power
-		clr_country_flag = socialist_party_in_power
-		clr_country_flag = communist_party_in_power
-		clr_country_flag = fascist_party_in_power
-		clr_country_flag = anarcho_liberal_party_in_power
-		any_owned = {
-			limit = { controlled_by = REB }
-			change_controller = THIS
-			any_pop = {
-				militancy = -8
-				ideology = {
-					value = reactionary
-					factor = 0.3
-				}
-			}
-		}
-		set_variable = {
-			which = christino_provinces
-			value = 5
-		}
-		any_owned = {
-			limit = {
-				OR = {
-					province_id = 510 #Cordoba
-					province_id = 513 #Grenada
-					province_id = 491 #Ciudad Real
-					province_id = 506 #Cartagena
-					province_id = 516 #Jaen
-				}
-			}
-			add_province_modifier = {
-				name = christino_sympathies
-				duration = -1
-			}
-			state_scope = {
-				any_pop = {
-					ideology = {
-						value = liberal
-						factor = 0.30
-					}
-					scaled_militancy = {
-						ideology = liberal
-						factor = 8
-					}
-				}
-			}
-		}
-		define_general = {
-			name = "Tomás de Zumalacárregui"
-			personality = deeply_religious
-			background = innovative_tactician
-		}
-		country_event = 37710
-		ai_chance = {
-			factor = 0
-		}
-	}
-}
+#country_event = {
+#	id = 37711
+#	title = "EVTNAME37711" #The Carlist War
+#	desc = "EVTDESC37711"
+#	picture = "carlists"
+#	news = yes
+#	news_title = "EVTNAME37711_NEWS_TITLE"
+#	news_desc_long = "EVTDESC37711_NEWS_LONG"
+#	news_desc_medium = "EVTDESC37711_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC37711_NEWS_SHORT"
+#	
+#	fire_only_once = yes
+#	
+#	trigger = {
+#		tag = SPA
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	option = {
+#		name = "EVT37711OPTA"
+#		set_country_flag = carlist_war
+#		any_owned = {
+#			limit = {
+#				OR = {
+#					controlled_by = REB
+#					region = SPA_474
+#					province_id = 477
+#					province_id = 480
+#					province_id = 495
+#					province_id = 485
+#					province_id = 509
+#				}
+#			}
+#			any_pop = {
+#				ideology = {
+#					value = conservative
+#					factor = 0.6
+#				}
+#				ideology = {
+#					value = reactionary
+#					factor = 0.3
+#				}
+#			}
+#		}
+#		any_owned = {
+#			limit = {
+#				OR = {
+#					province_id = 492
+#					province_id = 493
+#					province_id = 497
+#					province_id = 499
+#					province_id = 500
+#					province_id = 501
+#				}
+#			}
+#			add_province_modifier = {
+#				name = carlist_sympathies
+#				duration = -1
+#			}
+#			any_pop = {
+#				limit = {
+#					OR = {
+#						has_pop_culture = basque
+#						has_pop_culture = catalan
+#					}
+#				}
+#				militancy = 5
+#				consciousness = 5
+#				ideology = {
+#					value = reactionary
+#					factor = 0.3
+#				}
+#			}
+#		}
+#		set_variable = {
+#			which = carlist_provinces
+#			value = 6
+#		}
+#		define_general = {
+#			name = "Baldomero Espartero"
+#			personality = unflinching
+#			background = natural_born_leader
+#		}
+#		ai_chance = {
+#			factor = 100
+#		}
+#	}
+#	
+#	option = {
+#		name = "EVT37711OPTB"
+#		any_owned = {
+#			limit = {
+#				OR = {
+#					controlled_by = REB
+#					region = SPA_474
+#					province_id = 477
+#					province_id = 480
+#					province_id = 495
+#					province_id = 485
+#					province_id = 509
+#				}
+#			}
+#			any_pop = {
+#				ideology = {
+#					value = conservative
+#					factor = 0.6
+#				}
+#				ideology = {
+#					value = reactionary
+#					factor = 0.3
+#				}
+#			}
+#		}
+#		all_core = {
+#			remove_core = SPA
+#			add_core = SPC
+#		}
+#		change_tag = SPC
+#		government = absolute_monarchy
+#		ruling_party_ideology = reactionary
+#		political_reform = none_voting
+#		political_reform = party_appointed
+#		political_reform = no_meeting
+#		political_reform = state_press
+#		political_reform = state_controlled
+#		political_reform = underground_parties
+#		clr_country_flag = election_started
+#		clr_country_flag = conservative_party_in_power
+#		clr_country_flag = liberal_party_in_power
+#		clr_country_flag = reactionary_party_in_power
+#		clr_country_flag = socialist_party_in_power
+#		clr_country_flag = communist_party_in_power
+#		clr_country_flag = fascist_party_in_power
+#		clr_country_flag = anarcho_liberal_party_in_power
+#		any_owned = {
+#			limit = { controlled_by = REB }
+#			change_controller = THIS
+#			any_pop = {
+#				militancy = -8
+#				ideology = {
+#					value = reactionary
+#					factor = 0.3
+#				}
+#			}
+#		}
+#		set_variable = {
+#			which = christino_provinces
+#			value = 5
+#		}
+#		any_owned = {
+#			limit = {
+#				OR = {
+#					province_id = 510 #Cordoba
+#					province_id = 513 #Grenada
+#					province_id = 491 #Ciudad Real
+#					province_id = 506 #Cartagena
+#					province_id = 516 #Jaen
+#				}
+#			}
+#			add_province_modifier = {
+#				name = christino_sympathies
+#				duration = -1
+#			}
+#			state_scope = {
+#				any_pop = {
+#					ideology = {
+#						value = liberal
+#						factor = 0.30
+#					}
+#					scaled_militancy = {
+#						ideology = liberal
+#						factor = 8
+#					}
+#				}
+#			}
+#		}
+#		define_general = {
+#			name = "Tomï¿½s de Zumalacï¿½rregui"
+#			personality = deeply_religious
+#			background = innovative_tactician
+#		}
+#		country_event = 37710
+#		ai_chance = {
+#			factor = 0
+#		}
+#	}
+#}
 
 country_event = {
 	id = 37712
@@ -3376,7 +3376,7 @@ country_event = {
 #events regarding the Chincha Islands War
 country_event = {
 	id = 97150
-	title = "EVTNAME97150" #The Talambó Incident
+	title = "EVTNAME97150" #The Talambï¿½ Incident
 	desc = "EVTDESC97150"
 	picture = "arrested"
 	
@@ -3475,7 +3475,7 @@ country_event = {
 
 country_event = {
 	id = 97151
-	title = "EVTNAME97150" #The Talambó Incident - Peru Apologizes
+	title = "EVTNAME97150" #The Talambï¿½ Incident - Peru Apologizes
 	desc = "EVTDESC97151"
 	news = yes
 	news_desc_long = "EVTDESC97151_NEWS_LONG"
@@ -3537,7 +3537,7 @@ country_event = {
 
 country_event = {
 	id = 97152
-	title = "EVTNAME97150" #The Talambó Incident - Peru Refuses to Apologize
+	title = "EVTNAME97150" #The Talambï¿½ Incident - Peru Refuses to Apologize
 	desc = "EVTDESC97152"
 	news = yes
 	news_desc_long = "EVTDESC97152_NEWS_LONG"

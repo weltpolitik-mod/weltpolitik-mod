@@ -33,73 +33,73 @@ political_decisions = {
 		}
 	}
 	
-	ultimatum_to_portugal = {
-		picture = pink_map
-		potential = {
-			NOT = { has_country_flag = ultimatum_to_portugal_sent }
-			OR = {
-				tag = ENG
-				tag = ENL
-			}
-			any_owned_province = { is_colonial = yes }
-			NOT = { war_policy = pacifism }
-			NOT = { has_country_modifier = no_more_war }
-			POR = {
-				exists = yes
-				is_vassal = no
-				any_owned_province = {
-					OR = {
-						region = ENG_2068
-						region = ENG_2014
-						region = ENG_2071
-						region = ENG_2016
-					}
-					any_neighbor_province = { owned_by = THIS }
-				}
-			}
-		}
-
-		allow = {
-			war = no
-			POR = {
-				is_greater_power = no
-				any_owned_province = {
-					OR = {
-						region = ENG_2068
-						region = ENG_2014
-						region = ENG_2016
-						region = ENG_2071
-					}
-					any_neighbor_province = { owned_by = THIS }
-				}
-			}
-		}
-
-		effect = {
-			badboy = 4
-			POR = { country_event = 97010 }
-			set_country_flag = ultimatum_to_portugal_sent
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.8
-			}
-			modifier = {
-				factor = 0
-				truce_with = POR
-			}
-			modifier = {
-				factor = 0
-				any_greater_power = {
-					is_sphere_leader_of = POR
-					neighbour = THIS
-				}
-			}
-		}
-	}
+	#ultimatum_to_portugal = {
+	#	picture = pink_map
+	#	potential = {
+	#		NOT = { has_country_flag = ultimatum_to_portugal_sent }
+	#		OR = {
+	#			tag = ENG
+	#			tag = ENL
+	#		}
+	#		any_owned_province = { is_colonial = yes }
+	#		NOT = { war_policy = pacifism }
+	#		NOT = { has_country_modifier = no_more_war }
+	#		POR = {
+	#			exists = yes
+	#			is_vassal = no
+	#			any_owned_province = {
+	#				OR = {
+	#					region = ENG_2068
+	#					region = ENG_2014
+	#					region = ENG_2071
+	#					region = ENG_2016
+	#				}
+	#				any_neighbor_province = { owned_by = THIS }
+	#			}
+	#		}
+	#	}
+	#
+	#	allow = {
+	#		war = no
+	#		POR = {
+	#			is_greater_power = no
+	#			any_owned_province = {
+	#				OR = {
+	#					region = ENG_2068
+	#					region = ENG_2014
+	#					region = ENG_2016
+	#					region = ENG_2071
+	#				}
+	#				any_neighbor_province = { owned_by = THIS }
+	#			}
+	#		}
+	#	}
+	#
+	#	effect = {
+	#		badboy = 4
+	#		POR = { country_event = 97010 }
+	#		set_country_flag = ultimatum_to_portugal_sent
+	#	}
+	#
+	#	ai_will_do = {
+	#		factor = 1
+	#		modifier = {
+	#			factor = 0
+	#			badboy = 0.8
+	#		}
+	#		modifier = {
+	#			factor = 0
+	#			truce_with = POR
+	#		}
+	#		modifier = {
+	#			factor = 0
+	#			any_greater_power = {
+	#				is_sphere_leader_of = POR
+	#				neighbour = THIS
+	#			}
+	#		}
+	#	}
+	#}
 
 	treaty_of_simulambuko = {
 		picture = treaty_signing
@@ -343,10 +343,10 @@ political_decisions = {
 			random_owned = { limit = { owner = { primary_culture = portuguese owns = 2009 } } 2009 = { change_province_name = "Malanje" } }
 			random_owned = { limit = { owner = { primary_culture = portuguese owns = 2006 } } 2006 = { change_province_name = "Silva Porto" } }
 			random_owned = { limit = { owner = { primary_culture = portuguese owns = 2011 } } 2011 = { change_province_name = "Luso" } }
-			random_owned = { limit = { owner = { primary_culture = portuguese owns = 2002 } } 2002 = { change_province_name = "Uíge" } }
+			random_owned = { limit = { owner = { primary_culture = portuguese owns = 2002 } } 2002 = { change_province_name = "Uï¿½ge" } }
 			random_owned = { 
 				limit = { owner = { primary_culture = portuguese owns = 2001 } }
-				2001 = { change_province_name = "São Salvador" } 
+				2001 = { change_province_name = "Sï¿½o Salvador" } 
 			}
 			random_owned = {
 				limit = { owner = { primary_culture = portuguese owns = 2010 } }

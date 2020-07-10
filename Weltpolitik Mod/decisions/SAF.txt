@@ -85,12 +85,12 @@ political_decisions = {
 			random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Transvaal" } }
 			random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Vrystaat" } }
 			random_owned = { limit = { province_id = 2111 } state_scope = { change_region_name = "Natal" } }
-			release_vassal = SAF
-			create_alliance = SAF
-			diplomatic_influence = {
-				who = SAF
-				value = 400
-			}	
+			#release_vassal = SAF
+			#create_alliance = SAF
+			#diplomatic_influence = {
+			#	who = SAF
+			#	value = 400
+			#}	
 		}
 		
 		ai_will_do = {

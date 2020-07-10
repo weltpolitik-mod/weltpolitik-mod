@@ -155,8 +155,16 @@ upper_house = {
 
 schools = naval_tech_school
 
+decision = webster_ashburton_treaty
 decision = literacy_ENG
 decision = imperial_federation_1886_setup
+decision = reorganize_south_africa
+decision = crown_empress_of_india
+decision = aden_protectorate
+decision = tasmania_penal_colony
+decision = the_foster_act
+decision = form_rajputana_outside
+decision = create_south_africa
 
 govt_flag = {
 	government = presidential_dictatorship

@@ -1,5 +1,5 @@
-owner = BLZ
-controller = BLZ
+owner = GUA
+controller = GUA
 add_core = BLZ
 add_core = GUA
 trade_goods = fruit

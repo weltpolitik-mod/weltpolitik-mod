@@ -531,6 +531,25 @@ vassal = {
 	# end_date = 1936.1.1
 # }
 
+# Weltpolitik
+vassal = {
+	first = GER
+	second = POL
+	start_date = 1882.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = ITA
+	second = YUG
+	start_date = 1884.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = ITA
+	second = ISR
+	start_date = 1884.1.1
+	end_date = 1936.1.1
+}
 vassal = {
 	first = JAP
 	second = KOR

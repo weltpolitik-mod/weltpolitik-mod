@@ -137,8 +137,8 @@ upper_house = {
 	communist = 5
 }
 
-schools = army_tech_school
+schools = german_tech_school
 
 decision = germany_1886_setup
-decision = support_ruhr_industrialism
+#decision = support_ruhr_industrialism
 decision = reichsland_elsass

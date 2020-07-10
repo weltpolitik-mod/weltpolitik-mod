@@ -1646,12 +1646,10 @@ political_decisions = {
 			2296 = { add_province_modifier = { name = silver_mine duration = -1 } }
 			312 = { add_province_modifier = { name = silver_mine duration = -1 } }
 			
-			add_country_modifier = { name = relutanct_figher duration = 3650 }
 			activate_technology = flintlock_rifles
 			activate_technology = post_napoleonic_thought
 			activate_technology = post_nelsonian_thought
 			SPU = {
-				add_country_modifier = { name = relutanct_figher duration = 3650 }
 				activate_technology = flintlock_rifles
 				activate_technology = post_napoleonic_thought
 				activate_technology = post_nelsonian_thought
@@ -1708,7 +1706,7 @@ political_decisions = {
 		
 		effect = {
 			2279 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } }
-				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.19 }
 				activate_technology = flintlock_rifles
 				activate_technology = post_napoleonic_thought
 				activate_technology = post_nelsonian_thought
@@ -2602,7 +2600,7 @@ political_decisions = {
 			}
 			
 			#################Government Flags Setup######################
-		
+			enable_ideology = socialist
 			ENT = { add_country_modifier = { name = caudillo_leaders duration = 7300 } }
 			CRT = { add_country_modifier = { name = caudillo_leaders duration = 1825 } }
 			HAI = { add_country_modifier = { name = divided_society duration = 10950 } }

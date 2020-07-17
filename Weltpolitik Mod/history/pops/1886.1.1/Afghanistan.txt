@@ -59,7 +59,7 @@
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 100025
+		size = 200025
 	}
 
 	aristocrats = {
@@ -96,6 +96,12 @@
 		culture = tajik
 		religion = sunni
 		size = 82775
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 50000
 	}
 
 	aristocrats = {

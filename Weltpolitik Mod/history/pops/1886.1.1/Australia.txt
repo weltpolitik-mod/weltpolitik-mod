@@ -75,9 +75,75 @@
 	}
 
 	farmers = {
+		culture = australian
+		religion = protestant
+		size = 2975
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 2000
+	}
+
+	craftsmen = {
 		culture = irish
 		religion = catholic
-		size = 2975
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 2000
+	}
+
+	craftsmen = {
+		culture = australian
+		religion = protestant
+		size = 3000
+	}
+
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 1000
+	}
+
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 6000
+	}
+
+	craftsmen = {
+		culture = australian
+		religion = protestant
+		size = 2000
+	}
+
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 900
+	}
+
+	capitalists = {
+		culture = irish
+		religion = catholic
+		size = 100
 	}
 
 	clergymen = {
@@ -102,82 +168,112 @@
 #Newcastle (16000/4000 POPS)
 2469 = {
 	clergymen = {
-		culture = british
+		culture = australian
 		religion = protestant
-		size = 25
+		size = 35
 	}
 
 	artisans = {
-		culture = british
+		culture = australian
 		religion = protestant
-		size = 250
+		size = 350
 	}
 
 	soldiers = {
-		culture = british
+		culture = australian
 		religion = protestant
-		size = 50
+		size = 93
 	}
 
 	farmers = {
-		culture = british
+		culture = australian
 		religion = protestant
-		size = 1445
+		size = 2000
 	}
 	
 	clergymen = {
 		culture = australian
 		religion = protestant
-		size = 25
+		size = 35
 	}
 	
 	artisans = {
 		culture = australian
 		religion = protestant
-		size = 50
+		size = 70
 	}
 	
 	soldiers = {
 		culture = australian
 		religion = protestant
-		size = 50
+		size = 70
 	}
 	
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = irish
 		religion = catholic
-		size = 10
+		size = 14
 	}
 
 
 	farmers = {
 		culture = irish
 		religion = catholic
-		size = 1100
+		size = 400
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 900
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 240
 	}
 
 	clergymen = {
 		culture = aborigine
 		religion = animist
-		size = 10
+		size = 14
 	}
 
 	soldiers = {
 		culture = aborigine
 		religion = animist
-		size = 265
+		size = 371
 	}
 
 	farmers = {
 		culture = aborigine
 		religion = animist
 		size = 925
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 375
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1000
 	}
 }
 #Port Macquarie (12000/3000 POPS)
@@ -188,10 +284,16 @@
 		size = 25
 	}
 
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 450
 	}
 
 	soldiers = {
@@ -200,8 +302,14 @@
 		size = 25
 	}
 
-	farmers = {
+	soldiers = {
 		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = australian
 		religion = protestant
 		size = 700
 	}
@@ -227,7 +335,19 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 160
+		size = 2160
+	}
+
+	craftsmen = {
+		culture = australian
+		religion = protestant
+		size = 400
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 100
 	}
 	
 	aristocrats = {
@@ -245,7 +365,7 @@
 	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 1800
+		size = 1400
 	}
 }
 
@@ -279,7 +399,7 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 125
+		size = 175
 	}
 
 	soldiers = {
@@ -288,10 +408,16 @@
 		size = 25
 	}
 
-	farmers = {
+	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1625
+		size = 150
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 2025
 	}
 	
 	clergymen = {
@@ -315,7 +441,25 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 100
+		size = 300
+	}
+
+	craftsmen = {
+		culture = australian
+		religion = protestant
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+
+	capitalists = {
+		culture = australian
+		religion = protestant
+		size = 50
 	}
 	
 }
@@ -345,6 +489,12 @@
 		size = 900
 	}
 
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 400
+	}
+
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -367,7 +517,7 @@
 	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 1850
+		size = 1750
 	}
 }
 #uncolonized in 1836
@@ -397,6 +547,12 @@
 		religion = protestant
 		size = 20
 	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 200
+	}
 	
 	aristocrats = {
 		culture = aborigine
@@ -419,7 +575,7 @@
 	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 1750
+		size = 2750
 	}
 }
 #Moree (8000/2000 POPS)
@@ -488,13 +644,13 @@
 	bureaucrats = {
 		culture = australian
 		religion = protestant
-		size = 5
+		size = 105
 	}
 	
 	clergymen = {
 		culture = australian
 		religion = protestant
-		size = 5
+		size = 105
 	}
 	
 	officers = {
@@ -503,10 +659,28 @@
 		size = 5
 	}
 
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 200
+	}
+
+	capitalists = {
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+
 	artisans = {
 		culture = australian
 		religion = protestant
-		size = 10
+		size = 510
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 500
 	}
 	
 	soldiers = {
@@ -518,8 +692,21 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 50
+		size = 4550
 	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1000
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
 
 	aristocrats = {
 		culture = aborigine
@@ -617,9 +804,21 @@
 		religion = animist
 		size = 1750
 	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 900
+	}
 }
 #Beechworth (4000/1000 POPS)
 2480 = {
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 700
+	}
+
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -646,6 +845,12 @@
 }
 #Swan Hill (4000/1000 POPS)
 2481 = {
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 300
+	}
+
 	aristocrats = {
 		culture = aborigine
 		religion = animist
@@ -678,16 +883,22 @@
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 125
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
+		culture = british
+		religion = protestant
+		size = 300
+	}
+
+	capitalists = {
 		culture = british
 		religion = protestant
 		size = 100
@@ -696,7 +907,7 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 8675
+		size = 8000
 	}
 	
 	clergymen = {
@@ -716,11 +927,17 @@
 		religion = protestant
 		size = 10
 	}
+
+	craftsmen = {
+		culture = australian
+		religion = protestant
+		size = 675
+	}
 	
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 60
+		size = 4060
 	}
 
 }
@@ -755,13 +972,13 @@
 	aristocrats = {
 		culture = australian
 		religion = protestant
-		size = 10
+		size = 110
 	}
 
 	bureaucrats = {
 		culture = australian
 		religion = protestant
-		size = 5
+		size = 15
 	}
 	
 	officers = {
@@ -773,7 +990,7 @@
 	clergymen = {
 		culture = australian
 		religion = protestant
-		size = 25
+		size = 50
 	}
 
 	artisans = {
@@ -785,13 +1002,13 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 125
 	}
 
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 25
+		size = 3225
 	}
 	
 	farmers = {
@@ -1083,13 +1300,13 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 20
+		size = 3020
 	}
 	
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 20
+		size = 420
 	}
 	
 	aristocrats = {
@@ -1140,7 +1357,7 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 20
+		size = 200
 	}
 	
 	
@@ -1217,7 +1434,7 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 20
+		size = 220
 	}
 	
 	aristocrats = {
@@ -1358,7 +1575,25 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 10
+		size = 5110
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 50
 	}
 	
 	aristocrats = {
@@ -1381,9 +1616,15 @@
 	}
 
 	farmers = {
+		culture = australian
+		religion = protestant
+		size = 4000
+	}
+
+	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 4750
+		size = 750
 	}
 }
 #Kojonup - Albany (12000/3000 POPS)
@@ -1469,7 +1710,6 @@
 		size = 50
 	}
 
-
 	soldiers = {
 		culture = aborigine
 		religion = animist
@@ -1477,9 +1717,15 @@
 	}
 
 	farmers = {
-		culture = aborigine
-		religion = animist
-		size = 1850
+		culture = australian
+		religion = protestant
+		size = 2850
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 100
 	}
 }
 #Kalgoorlie (4000/1000 POPS)
@@ -1612,6 +1858,12 @@
 		size = 900
 	}
 
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 100
+	}
+
 }
 #Halls Creek (2000/500 POPS)
 2601 = {
@@ -1734,7 +1986,7 @@
 	farmers = {
 		culture = australian
 		religion = protestant
-		size = 20
+		size = 3020
 	}
 
 	aristocrats = {
@@ -1782,9 +2034,15 @@
 	}
 
 	farmers = {
+		culture = australian
+		religion = protestant
+		size = 900
+	}
+
+	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 1750
+		size = 2750
 	}
 }
 #Alice Springs (2800/700 POPS)
@@ -1845,16 +2103,22 @@
 #Ruled by Britain 1836
 #Norfolk Island (1000/250 POPS)
 2508 = {
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 30
+	}
+
 	clergymen = {
 		culture = australian
 		religion = protestant
-		size = 10
+		size = 30
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 235
+		size = 2050
 	}
 
 }

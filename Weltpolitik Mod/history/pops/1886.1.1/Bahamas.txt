@@ -5,61 +5,61 @@
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+		size = 70
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 100
+		size = 140
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4050
+		size = 5670
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 15
+		size = 21
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 5
+		size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 15
+		size = 21
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 150
+		size = 210
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 35
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 540
+		size = 756
 	}
 }
 #Turks & Caicos Islands (3000/750 POPS) #still a British colony
@@ -67,25 +67,25 @@
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+		size = 70
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 100
+		size = 140
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 550
+		size = 770
 	}
 
 }

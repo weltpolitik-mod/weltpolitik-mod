@@ -5,152 +5,164 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 650
+		size = 860
+	}
+
+	capitalists = {
+		culture = bosniak
+		religion = sunni
+		size = 50
 	}
 
 	bureaucrats = {
 		culture = bosniak
 		religion = sunni
-		size = 275
+		size = 385
 	}
 
 	officers = {
 		culture = bosniak
 		religion = sunni
-		size = 225
+		size = 315
 	}
 	
 	soldiers = {
 		culture = bosniak
 		religion = sunni
-		size = 1200
+		size = 1680
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 240
 	}
 
 	artisans = {
 		culture = bosniak
 		religion = sunni
-		size = 4000
+		size = 5500
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 34775
+		size = 41685
+	}
+
+	craftsmen = {
+		culture = bosniak
+		religion = sunni
+		size = 7000
 	}
 	
 	aristocrats = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 	
 	officers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 		
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 250
+		size = 350
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 1550
+		size = 2170
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 9000
+		size = 12600
 	}
 	
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 	
 	officers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 200
+		size = 280
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 475
+		size = 665
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 3050
+		size = 4270
 	}
 
 	######Jews
 	aristocrats = {
 		culture = sephardic
 		religion = jewish
-		size = 100
+		size = 140
 	}
 	
 	officers = {
 		culture = sephardic
 		religion = jewish
-		size = 100
+		size = 140
 	}
 
 	soldiers = {
 		culture = sephardic
 		religion = jewish
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 200
+		size = 280
 	}
 	
 	farmers = {
 		culture = sephardic
 		religion = jewish
-		size = 200
+		size = 280
 	}
 	########
 }
@@ -159,10 +171,40 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 400
+		size = 560
 	}
 	
 	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 20000
+	}
+
+	craftsmen = {
+		culture = bosniak
+		religion = sunni
+		size = 3000
+	}
+
+	bureaucrats = {
 		culture = bosniak
 		religion = sunni
 		size = 100
@@ -171,67 +213,67 @@
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = bosniak
-		religion = sunni
-		size = 750
-	}
-
-	farmers = {
-		culture = bosniak
-		religion = sunni
-		size = 16675
+		size = 245
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 300
+		size = 420
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 3525
+		size = 4000
+	}
+
+	craftsmen = {
+		culture = serb
+		religion = orthodox
+		size = 935
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 200
+		size = 280
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 2650
+		size = 3000
+	}
+
+	craftsmen = {
+		culture = croat
+		religion = catholic
+		size = 710
 	}
 }
 #Banja Luka (116000/29000 POPS)
@@ -239,79 +281,103 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 500
+		size = 700
 	}
 	
 	soldiers = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 240
 	}
 
 	artisans = {
 		culture = bosniak
 		religion = sunni
-		size = 800
+		size = 1120
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 4500
+		size = 6000
+	}
+
+	craftsmen = {
+		culture = bosniak
+		religion = sunni
+		size = 200
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 500
+		size = 700
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 18300
+		size = 21520
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1000
+	}
+
+	craftsmen = {
+		culture = serb
+		religion = orthodox
+		size = 3000
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = orthodox
+		size = 100
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 150
+		size = 210
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 3675
+		size = 5145
 	}
 }
 #Tuzla (168000/42000 POPS)
@@ -319,10 +385,34 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 700
+		size = 980
 	}
 	
 	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 1610
+	}
+
+	capitalists = {
+		culture = bosniak
+		religion = sunni
+		size = 50
+	}
+
+	bureaucrats = {
 		culture = bosniak
 		religion = sunni
 		size = 100
@@ -331,67 +421,79 @@
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = bosniak
-		religion = sunni
-		size = 1150
+		size = 200
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 19975
+		size = 24615
+	}
+
+	craftsmen = {
+		culture = bosniak
+		religion = sunni
+		size = 3000
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 700
+		size = 980
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 19125
+		size = 23575
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
+	craftsmen = {
+		culture = serb
+		religion = orthodox
+		size = 3000
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 250
+		size = 350
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 4675
+		size = 6545
 	}
 }
 #Foca (92000/23000 POPS)
@@ -399,55 +501,67 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 400
+		size = 560
 	}
 	
 	soldiers = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = bosniak
 		religion = sunni
-		size = 600
+		size = 840
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 5925
+		size = 8295
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 	
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 500
+		size = 700
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 15300
+		size = 20000
+	}
+
+	craftsmen = {
+		culture = serb
+		religion = orthodox
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = orthodox
+		size = 220
 	}
 }
 #Mostar (104000/26000 POPS)
@@ -455,79 +569,91 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
-		size = 450
+		size = 630
 	}
 	
 	soldiers = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = sunni
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = bosniak
 		religion = sunni
-		size = 600
+		size = 840
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 3900
+		size = 5460
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 240
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 500
+		size = 700
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 14375
+		size = 18025
+	}
+
+	craftsmen = {
+		culture = croat
+		religion = catholic
+		size = 2000
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 200
+		size = 280
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 5750
+		size = 8000
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = orthodox
+		size = 50
 	}
 }
 #Livno (136000/34000 POPS)
@@ -535,79 +661,97 @@
 	aristocrats = {
 		culture = bosniak
 		religion = sunni
+		size = 490
+	}
+	
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 140
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
 		size = 350
 	}
-	
-	soldiers = {
-		culture = bosniak
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bosniak
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = bosniak
-		religion = sunni
-		size = 250
-	}
 
 	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 1200
+		size = 1680
 	}
 
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 	
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 800
+		size = 1120
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 14000
+		size = 18000
+	}
+
+	craftsmen = {
+		culture = croat
+		religion = catholic
+		size = 1300
+	}
+
+	bureaucrats = {
+		culture = croat
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 200
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 140
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 600
+		size = 840
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 16300
+		size = 22820
 	}
 
 }

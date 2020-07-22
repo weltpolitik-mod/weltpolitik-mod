@@ -5,97 +5,115 @@
 	aristocrats = {
 		culture = spanish
 		religion = catholic
-		size = 350
+		size = 490
 	}
 
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-		size = 300
+		size = 420
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-		size = 325
+		size = 455
 	}
 
 	artisans = {
 		culture = spanish
 		religion = catholic
-		size = 4325
+		size = 6055
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 200
+		size = 280
 	}
 
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 3103
+		size = 4344
 	}
 
 	bureaucrats = {
 		culture = caribeno
 		religion = catholic
-		size = 50
+		size = 70
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 175
+		size = 245
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 10000
+		size = 14000
 	}
 	
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 4000
+		size = 5600
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 1100
+		size = 1540
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 28625
+		size = 40075
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 1000
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 6000
+		size = 8400
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 500
+		size = 700
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 2500
+		size = 3500
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 38000
+		size = 50200
+	}
+
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2000
 	}
 }
 #Jagua (252000/63000 POPS)
@@ -103,111 +121,130 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 600
+		size = 840
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 375
+		size = 525
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 1200
+		size = 1680
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 250
+		size = 350
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 21575
+		size = 29005
+	}
+
+	craftsmen = {
+		culture = caribeno
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 100
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 2000
+		size = 2800
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 150
+		size = 210
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 11850
+		size = 16590
+		militancy = 3
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 25000
+		size = 35000
 	}
 }
 #Camaguey (168000/42000 POPS)
 2211 = {
 	aristocrats = {
-		culture = caribeno
+		culture = spanish
 		religion = catholic
-		size = 450
+		size = 630
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 400
+		size = 560
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 3500
+		size = 4900
 	}
 
 	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 150
+		culture = yankee
+		religion = protestant
+		size = 210
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 8500
+		size = 11900
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1500
+		size = 2100
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 300
+		size = 420
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 2200
+		size = 3080
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 25000
+		size = 35000
 	}
 }
 #Santiago de Cuba (128000/32000 POPS)
@@ -215,95 +252,114 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 200
+		size = 280
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 175
+		size = 245
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 3500
+		size = 4900
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 150
+		size = 210
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 8975
+		size = 12565
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1500
+		size = 2100
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
+		size = 280
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4620
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 19600
+	}
+
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
 		size = 200
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 3300
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 14000
 	}
 
 }
 
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
+
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 5
+		size = 7
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 10
+		size = 14
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 25
+		size = 35
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 240
+		size = 336
 	}
 	
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 879
+		size = 1230
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 60
 	}
 }
 

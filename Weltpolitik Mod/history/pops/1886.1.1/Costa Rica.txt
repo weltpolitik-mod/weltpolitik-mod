@@ -5,49 +5,65 @@
 	aristocrats = {
 		culture = central_american
 		religion = catholic
-		size = 300
-		militancy = 9
+		size = 420
 	}
 
 	bureaucrats = {
 		culture = central_american
 		religion = catholic
-		size = 50
+		size = 70
 	}
 
 	officers = {
 		culture = central_american
 		religion = catholic
-		size = 25
-		militancy = 9
+		size = 35
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 125
-		militancy = 9
+		size = 175
 	}
 
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 650
+		size = 910
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 525
-
-		militancy = 9
+		size = 735
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 11725
-		militancy = 5
+		size = 15115
+		militancy = 3
+	}
+
+	craftsmen = {
+		culture = central_american
+		religion = catholic
+		size = 1000
+		militancy = 3
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 100
+		militancy = 3
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 200
+		militancy = 3
 	}
 }
 #Liberia (20000/5000 POPS)
@@ -55,36 +71,33 @@
 	aristocrats = {
 		culture = central_american
 		religion = catholic
-		size = 150
-		militancy = 9
+		size = 210
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 50
+		size = 75
 		militancy = 9
 	}
 
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 250
+		size = 400
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 50
-
-		militancy = 9
+		size = 80
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 4500
-		militancy = 5
+		size = 6750
+		militancy = 3
 	}
 }
 #Limon (12000/3000 POPS)

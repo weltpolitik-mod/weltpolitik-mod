@@ -5,73 +5,97 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 1550
+		size = 2400
+	}
+
+	capitalists = {
+		culture = north_andean
+		religion = catholic
+		size = 80
 	}
 
 	bureaucrats = {
 		culture = north_andean
 		religion = catholic
-		size = 200
+		size = 280
 	}
 
 	officers = {
 		culture = north_andean
 		religion = catholic
-		size = 150
+		size = 240
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 600
+		size = 960
 	}
 
 	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1760
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 30000
+	}
+
+	craftsmen = {
+		culture = north_andean
+		religion = catholic
+		size = 2500
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 160
+	}
+
+	clergymen = {
 		culture = north_andean
 		religion = catholic
 		size = 300
 	}
 
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 20600
-	}
-
 	clergymen = {
 		culture = quechua
 		religion = catholic
-		size = 175
+		size = 280
 	}
 
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 4100
+		size = 6560
 	}
 
 	soldiers = {
 		culture = quechua
 		religion = catholic
-		size = 1100
+		size = 1760
 	}
 
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 36725
+		size = 58760
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 7000
+		size = 11200
 	}
 }
 #Zamora (176000/44000 POPS)
@@ -79,55 +103,67 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 900
+		size = 1440
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 275
+		size = 440
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 450
+		size = 630
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 7275
+		size = 11640
 	}
 
 	clergymen = {
 		culture = quechua
 		religion = catholic
-		size = 175
+		size = 280
 	}
 
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 1750
+		size = 2800
 	}
 
 	soldiers = {
 		culture = quechua
 		religion = catholic
-		size = 1100
+		size = 1760
 	}
 
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 31775
+		size = 47840
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 2000
 	}
 }
 #Tena (32000/8000 POPS)
@@ -135,85 +171,85 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 75
+		size = 120
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 150
+		size = 240
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 2625
+		size = 4200
 	}
 
 	clergymen = {
 		culture = quechua
 		religion = catholic
-		size = 25
+		size = 40
 	}
 
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	soldiers = {
 		culture = quechua
 		religion = catholic
-		size = 25
+		size = 40
 	}
 
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 1850
+		size = 2960
 	}
 
 	aristocrats = {
 		culture = amazonian
 		religion = animist
-		size = 50
+		size = 80
 	}
 
 	clergymen = {
 		culture = amazonian
 		religion = animist
-		size = 75
+		size = 120
 	}
 
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 150
+		size = 240
 	}
 
 	soldiers = {
 		culture = amazonian
 		religion = animist
-		size = 25
+		size = 40
 	}
 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 2700
+		size = 4320
 	}
 }
 #Guayaquil Region (328000)
@@ -223,73 +259,97 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 450
+		size = 700
+	}
+
+	capitalists = {
+		culture = north_andean
+		religion = catholic
+		size = 20
 	}
 
 	bureaucrats = {
 		culture = north_andean
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	officers = {
 		culture = north_andean
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 175
+		size = 280
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 850
+		size = 1000
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 360
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 175
+		size = 280
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 15150
+		size = 23000
+	}
+
+	craftsmen = {
+		culture = north_andean
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 240
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 150
+		size = 240
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1800
+		size = 2880
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1100
+		size = 1760
 	}
 }
 #Esmereldas / Esmeraldas(88000/22000 POPS)
@@ -297,61 +357,67 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 450
+		size = 700
+	}
+
+	capitalists = {
+		culture = north_andean
+		religion = catholic
+		size = 20
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 175
+		size = 280
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 350
+		size = 560
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 75
+		size = 120
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 5800
+		size = 9280
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 120
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 750
+		size = 1200
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 150
+		size = 240
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 5025
+		size = 8040
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 4000
+		size = 6400
 	}
 }
 #Loja (160000/40000 POPS)
@@ -359,55 +425,73 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 825
+		size = 1300
+	}
+
+	capitalists = {
+		culture = north_andean
+		religion = catholic
+		size = 20
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 275
+		size = 440
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 750
+		size = 1200
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 150
+		size = 240
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 13000
+		size = 20000
+	}
+
+	craftsmen = {
+		culture = north_andean
+		religion = catholic
+		size = 800
 	}
 
 	clergymen = {
 		culture = quechua
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 1250
+		size = 2000
 	}
 
 	soldiers = {
 		culture = quechua
 		religion = catholic
-		size = 250
+		size = 400
 	}
 
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 23400
+		size = 37000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 440
 	}
 }
 #Galapagos Region (300)
@@ -441,7 +525,7 @@
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 45
+		size = 72
 	}
 
 }

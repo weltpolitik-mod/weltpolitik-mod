@@ -5,61 +5,79 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 700
+		size = 1120
 	}
 	
 	bureaucrats = {
 		culture = caribeno
 		religion = catholic
-		size = 25
+		size = 40
 	}
 	
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 350
+		size = 560
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 75
+		size = 120
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 62375
+		size = 90000
+	}
+
+	craftsmen = {
+		culture = caribeno
+		religion = catholic
+		size = 6800
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic
+		size = 1000
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 500
+		size = 800
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 45350
+		size = 72560
 	}
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
@@ -67,55 +85,73 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 550
+		size = 880
 	}
 	
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 100
+		size = 160
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 400
+		size = 640
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 30175
+		size = 45280
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 1000
+	}
+
+	craftsmen = {
+		culture = caribeno
+		religion = catholic
+		size = 2000
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 80
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 300
+		size = 480
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 120
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 19575
+		size = 31000
+	}
+
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 320
 	}
 
 }

@@ -5,31 +5,38 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 425
+		size = 595
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 225
+		size = 315
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 1100
+		size = 1540
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 225
+		size = 315
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 20025
+		size = 25025
+		militancy = 1
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 100
 	}
 }
 #Lomaji (8000/2000 POPS) 
@@ -37,31 +44,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 25
+		size = 35
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 50
+		size = 70
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 100
+		size = 140
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 25
+		size = 35
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 1800
+		size = 2520
 	}
 }
 

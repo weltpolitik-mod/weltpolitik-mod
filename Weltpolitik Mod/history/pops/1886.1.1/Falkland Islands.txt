@@ -5,12 +5,12 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 35
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 70
 	}
 }

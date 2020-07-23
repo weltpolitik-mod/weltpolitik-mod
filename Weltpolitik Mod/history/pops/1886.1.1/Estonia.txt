@@ -36,6 +36,7 @@
 		culture = estonian
 		religion = protestant
 		size = 43195
+		militancy = 4
 	}
 
 	bureaucrats = {
@@ -226,6 +227,7 @@
 		culture = estonian
 		religion = protestant
 		size = 50155
+		militancy = 3
 	}
 
 	craftsmen = {

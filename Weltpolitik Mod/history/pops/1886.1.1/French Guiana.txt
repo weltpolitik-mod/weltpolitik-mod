@@ -5,67 +5,67 @@
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 150
+		size = 210
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 10
+		size = 14
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 10
+		size = 14
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 100
+		size = 140
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 80
+		size = 112
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = catholic
-		size = 150
+		size = 210
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-		size = 25
+		size = 35
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 425
+		size = 595
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 2950
+		size = 4130
 	}
 
 	aristocrats = {
@@ -83,7 +83,7 @@
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 10
+		size = 14
 	}
 
 	soldiers = {
@@ -95,7 +95,13 @@
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 230
+		size = 322
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 100
 	}
 }
 #Maripasoula (3000/750 POPS)
@@ -103,31 +109,37 @@
 	aristocrats = {
 		culture = amazonian
 		religion = animist
-		size = 10
+		size = 14
 	}
 
 	clergymen = {
 		culture = amazonian
 		religion = animist
-		size = 15
+		size = 21
 	}
 
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 35
+		size = 49
 	}
 
 	soldiers = {
 		culture = amazonian
 		religion = animist
-		size = 10
+		size = 14
 	}
 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 680
+		size = 952
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 50
 	}
 
 }

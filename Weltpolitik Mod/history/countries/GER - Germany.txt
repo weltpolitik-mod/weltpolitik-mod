@@ -9,6 +9,7 @@ nationalvalue = nv_order
 literacy = 0.90
 civilized = yes
 is_releasable_vassal = no
+consciousness = 5
 
 # Political reforms
 slavery = no_slavery
@@ -140,5 +141,5 @@ upper_house = {
 schools = german_tech_school
 
 decision = germany_1886_setup
-#decision = support_ruhr_industrialism
+decision = support_ruhr_industrialism
 decision = reichsland_elsass
